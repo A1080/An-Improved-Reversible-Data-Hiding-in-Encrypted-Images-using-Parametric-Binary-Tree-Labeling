@@ -1,0 +1,10 @@
+1. Encrypt.cpp ->
+   Enter the pixel values you want to enter in the normal matrix that represents the image.
+   Run the code. You will seee the encrypted image matrix and also the intermediate matrices.
+   Now, enter a 3-4 letter string that is the data to hide.
+   You will see the marked encrypted image with data embedded.
+
+2. Decrypt.cpp ->
+   Enter the pixel values that you got on running the encrypt.cpp file.
+   Run the code and you will see the extracted data and decrypted image.
+   
